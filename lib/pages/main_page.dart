@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kantongku/pages/category_page.dart';
 import 'package:kantongku/pages/home_page.dart';
+import 'package:kantongku/pages/transaction_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
@@ -45,7 +46,15 @@ class _MainPageState extends State<MainPage> {
         floatingActionButton: Visibility(
           visible: (currentIndex == 0) ? true : false,
           child: FloatingActionButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.of(context)
+                  .push(MaterialPageRoute(
+                builder: (context) => TransactionPage(),
+              ))
+                  .then((value) {
+                setState(() {});
+              });
+            },
             backgroundColor: Colors.green,
             child: Icon(Icons.add),
           ),
