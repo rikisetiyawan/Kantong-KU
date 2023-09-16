@@ -1,13 +1,13 @@
-# kantongku
+# Kantong KU
 
-A new Flutter project.
+Pelatihan : Batch 5 - Teknik Membuat Aplikasi Mobile dengan Flutter | Prakerja 2023
 
-## Getting Started
+## Riki Setiyawan
 
-This project is a starting point for a Flutter application.
+Demo Aplikasi :
+
 
 A few resources to get you started if this is your first Flutter project:
-
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
