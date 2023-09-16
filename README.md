@@ -4,10 +4,10 @@ Pelatihan : Batch 5 - Teknik Membuat Aplikasi Mobile dengan Flutter | Prakerja 2
 
 ## Riki Setiyawan
 
-Demo Aplikasi :
-Halaman Dashboard : ![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/dashboard.JPG?raw=true)
-Halaman Categories : ![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/categories.JPG?raw=true) ![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/modal%20categories.JPG?raw=true)
-Halaman Transaction : ![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/transaction.JPG?raw=true)
+![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/dashboard.JPG?raw=true)
+![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/categories.JPG?raw=true)
+![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/modal%20categories.JPG?raw=true)
+![alt text](https://github.com/rikisetiyawan/Kantong-KU/blob/master/web/img/transaction.JPG?raw=true)
 
 
 A few resources to get you started if this is your first Flutter project:
